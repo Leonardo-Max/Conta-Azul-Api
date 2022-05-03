@@ -15,7 +15,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Eudovic\\ContaAzul\\": "src/"
+            "Leonardo-Max\\ContaAzul\\": "src/"
         },
         "classmap": ["src/"]
     }
