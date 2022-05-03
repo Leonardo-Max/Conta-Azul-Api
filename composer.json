@@ -1,5 +1,5 @@
 {
-    "name": "Leonardo-Max/contaazul",
+    "name": "leonardo-max/contaazul",
     "version": "1.0",
     "description": "ContaAzul API",
     "keywords": ["api","contaazul"],
@@ -15,7 +15,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Leonardo-Max\\ContaAzul\\": "src/"
+            "leonardo-max\\contaazul\\": "src/"
         },
         "classmap": ["src/"]
     }
