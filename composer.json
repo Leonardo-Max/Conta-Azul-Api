@@ -1,7 +1,7 @@
 {
-    "name": "eudovic/contaazul",
+    "name": "Leonardo-Max/contaazul",
     "version": "1.0",
-    "description": "ContaAzul API library",
+    "description": "ContaAzul API",
     "keywords": ["api","contaazul"],
     "require": {
         "php": ">=5.3"
