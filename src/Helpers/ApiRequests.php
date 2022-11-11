@@ -31,7 +31,7 @@ class ApiRequests {
         curl_setopt($ch, CURLOPT_HTTPHEADER, $this->getHeader());
         $result = json_decode(curl_exec($ch), true);
         curl_close($ch);
-        Helpers::isJson($result) == 0 ? $result = json_decode($result) : null;
+        
         return $result;
     }
 
